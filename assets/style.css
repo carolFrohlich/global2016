@@ -112,12 +112,14 @@ html, body {
 .postit{
 	background: rgba(232,159,16,0.65);
 	color: #fff;
+	width: 21%;
 	margin-bottom: 15px;
 	margin-right: 15px;
 }
 
-.postit p {font-weight: bold; line-height: 70%;}
+.postit p {font-weight: bold; font-size: 14px; line-height: 60%;}
 .postit h4 {font-weight: bold;}
+
 
 /*team*/
 .team figure{width: 100%;}
